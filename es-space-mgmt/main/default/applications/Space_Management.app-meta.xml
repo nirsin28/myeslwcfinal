@@ -13,8 +13,8 @@
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>Space Management</label>
     <navType>Console</navType>
-    <tabs>Market__c</tabs>
     <tabs>Reservation_Manager</tabs>
+    <tabs>Market__c</tabs>
     <tabs>Space__c</tabs>
     <tabs>Reservation__c</tabs>
     <tabs>standard-Lead</tabs>
